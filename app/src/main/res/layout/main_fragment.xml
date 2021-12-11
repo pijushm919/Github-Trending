@@ -34,13 +34,9 @@
             android:layout_height="wrap_content"
             android:background="#dadada"
             android:iconifiedByDefault="false"
-<<<<<<< HEAD
-=======
-            android:queryHint="Enter repository keywords to filter records"
->>>>>>> 151d3f9 (Final Commit)
             app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintHorizontal_bias="0.0"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent" />
+
     </androidx.constraintlayout.widget.ConstraintLayout>
 </layout>
